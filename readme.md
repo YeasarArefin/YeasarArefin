@@ -1,5 +1,4 @@
-# Hi! I am <a href="https://smabtahinoor.netlify.app">Yeasar Arefin</a>
-Here are some ideas to get you started:
+# Hi! I am <a href="https://yeasararefin.github.io/.com/">Yeasar Arefin</a>
 
 ## I'm a Developer, Singer & Gamer!!
 
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.facebook.com/yeasar.arefin/"> Facebook Profile </a>, <a href="https://www.instagram.com/yeasar_arefin/">Instagram </a> ,<a href="https://twitter.com/yeasar_arefin">Twitter </a>, <a href="https://www.linkedin.com/in/yeasar-arefin-0b6686215/> Linkedin </a>
 - 📫 My Portfolio: <a href="https://yeasararefin.github.io/.com/">Yeasar Arefin</a>
 
-<p align="left"> <a href="https://twitter.com/yeasar_arefin" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yeasar_arefin" target="blank"><img src="https://img.shields.io/twitter/follow/yeasar_arefin?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
 
 
 
