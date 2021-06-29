@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yeasar_arefin" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="yeasararefin" height="30" width="40" /></a>
+<a href="https://twitter.com/yeasar_arefin" target="blank"><img align="center" src="https://www.vhv.rs/dpng/d/409-4097837_transparent-background-twitter-logo-hd-png-download.png" alt="yeasararefin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yeasar-arefin-0b6686215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yeasararefin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/yeasar.arefin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yeasararefin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yeasar_arefin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yeasararefin" height="30" width="40" /></a>
