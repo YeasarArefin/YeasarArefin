@@ -22,8 +22,6 @@
 <a href="https://www.instagram.com/yeasar_arefin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yeasararefin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" style="color:white;">See Projects:</h3>
-<p><a href="https://github.com/YeasarArefin?tab=repositories" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="yeasararefin" height="30" width="40" /></a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
