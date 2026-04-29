@@ -120,7 +120,12 @@ const yeasar = {
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeasararefin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -133,14 +138,14 @@ const yeasar = {
 
 ---
 
+<div align="center">
+
 ## 📈 Contribution Activity
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasararefin&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
