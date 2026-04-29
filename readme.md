@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yeasar%20Arefin&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:ff6ec4&height=200&section=header&text=Yeasar%20Arefin&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <h3 align="center">
@@ -24,7 +24,12 @@
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 About Me
+
+</div>
+
 
 ```typescript
 const yeasar = {
@@ -46,8 +51,12 @@ const yeasar = {
   }
 };
 ```
+<div align="center">
 
 ## 🛠️ Tech Stack
+
+</div>
+
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/></a>
   <a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/></a>
@@ -72,7 +81,11 @@ const yeasar = {
 
 <div align="center">
 
+<div align="center">
+
 ## 🏆 Achievements
+
+</div>
 
 🚀 **NASA Space Apps Challenge 2024**  
 ↳ Global Nominee — *AgroFusion*
@@ -89,8 +102,12 @@ const yeasar = {
 </div>
 
 ---
+<div align="center">
 
 ## 📌 Featured Projects
+
+</div>
+
 
 ### 🌾 [AgroFusion](https://github.com/yeasararefin)
 > An agri-tech platform connecting farmers and buyers — recognized globally at NASA Space Apps Challenge 2024, Moonshot Pirates, and Paradigm Challenge.
